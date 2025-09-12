@@ -1,10 +1,11 @@
 package exercicios;
-
+import java.util.Scanner;
 public class try_catch {
 
 	public static void main(String[] args) {
-		int a = 123;
-		int b = 0;
+		Scanner j = new Scanner(System.in);
+		int a = j.nextInt();
+		int b = j.nextInt();
    try {
 	   System.out.println(a/b);
    }catch(ArithmeticException e) {
