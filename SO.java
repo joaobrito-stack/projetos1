@@ -6,14 +6,14 @@ public class SO {
 		
 	}
 	// criando uma classe 
-		 String tipo1;
-	  public SO(String modelo) {
+		 String TipoDoModelo;
+	  public SO(String Modelo) {
 		  //criando um metodo. São tipos funções de matemática
-		  this.tipo1 = modelo;
-		  System.out.println("Sistema criado:"+modelo);
+		  this.TipoDoModelo = Modelo;
+		  System.out.println("Sistema criado:"+Modelo);
 		  //printando alguma coisa
 	  }
 	  public void ligar() {
-		  System.out.println("ligando:" + this.tipo1);
+		  System.out.println("ligando:" + this.TipoDoModelo);
 	  }
 	 }

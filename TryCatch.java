@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class TryCatch {
 
 	public static void main(String[] args) {
-		Scanner j = new Scanner(System.in);
-		int a = j.nextInt();
-		int b = j.nextInt();
+		Scanner Sc = new Scanner(System.in);
+		int Numero = Sc.nextInt();
+		int SegundoNumero = Sc.nextInt();
    try {
-	   System.out.println(a/b);
+	   System.out.println(Numero/SegundoNumero);
    }catch(ArithmeticException e) {
 	  
 	   System.err.println("Num pode dividir por zero");
