@@ -1,6 +1,6 @@
 package exercicios;
 import java.util.Scanner;
-public class try_catch {
+public class TryCatch {
 
 	public static void main(String[] args) {
 		Scanner j = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package exercicios;
 import java.util.ArrayList;
 import java.util.Set;
-public class repetições {
+public class Repetições {
 
 	public static void main(String[] args) {
 	//For(contador;condição;incremento){ocorrencia}

@@ -1,6 +1,6 @@
 package exercicios;
 
-public class declararvariaveis {
+public class DeclararVariaveis {
  public static void main(String[]args) {
 //[tipo de variável] [nome dela] = [informação];
 	

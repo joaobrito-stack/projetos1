@@ -1,6 +1,6 @@
 package exercicios;
 
-public class condicionais {
+public class Condicionais {
 
 	public static void main(String[] args) {
     // [tipo de condição](condição) { ocorrencia }

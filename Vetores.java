@@ -1,6 +1,6 @@
 package exercicios;
 
-public class vetores {
+public class Vetores {
 
 	public static void main(String[] args) {
  // [tipo da variável] |[]| [nome da variável] = {i,x,k,.....};
