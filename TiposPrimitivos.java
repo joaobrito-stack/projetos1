@@ -24,13 +24,13 @@ public class TiposPrimitivos {
 	
 	// tipos de texto, é texto, obviamente;
 	
-	String String = "Fernanda"; //guarda texto e frases
+	String string = "Fernanda"; //guarda texto e frases
 	char Char = 'x'; //guarda apenas 1 caractere
 	
 	//Obs: String e demais não são primitivos, são Classes Publicas que se comportam como um tipo.
 	
 
-	boolean Decisão;
+	boolean decisão;
     //a unica váriavel primitva, que guarda o status de Verdadeiro, ou Falso;
 	}
 

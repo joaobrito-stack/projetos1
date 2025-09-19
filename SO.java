@@ -3,14 +3,14 @@ package exercicios;
 
 public class SO {
 	// criando uma classe 
-	String TipoDoModelo;
-	public SO(String Modelo) {
+	String tipodomodelo;
+	public SO(String modelo) {
 		//criando um metodo. São tipos funções de matemática
-		this.TipoDoModelo = Modelo;
-		System.out.println("Sistema criado:"+Modelo);
+		this.tipodomodelo = modelo;
+		System.out.println("Sistema criado:"+modelo);
 		//printando alguma coisa
 	}
 	public void ligar() {
-		System.out.println("ligando:" + this.TipoDoModelo);
+		System.out.println("ligando:" + this.tipodomodelo);
 	}
 }
